@@ -1,3 +1,2 @@
 Once upon a time in a small software company, there was a team of developers working on a new application. They were constantly running into issues with version control, often finding themselves struggling to keep track of changes and merge different versions of the code.
-
 The team leader, Sarah, recognized the need for a better solution and decided to implement a new version control system. After some research, she decided to introduce a popular version control tool called Git.
