@@ -1,0 +1,1 @@
+Once upon a time in a small software company, there was a team of developers working on a new application. They were constantly running into issues with version control, often finding themselves struggling to keep track of changes and merge different versions of the code.
