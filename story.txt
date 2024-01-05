@@ -1,1 +1,7 @@
 This is a new Story.
+
+Change 1
+
+change 2
+
+change 3
