@@ -1,5 +1,0 @@
-
-This is for Hard reset
-Git reset --soft
-git reset SOFT
-git reset --soft --hard --mixed
