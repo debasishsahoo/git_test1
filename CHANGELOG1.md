@@ -1,0 +1,106 @@
+- New Update
+- Merge branch 'br2'
+- All done
+- All done
+- Update all
+- All done
+- index file updated
+- This is form BR2
+- This is form BR2
+- Revert "Commit from new_branch 4cfd3771"
+- Commit from new_branch 4cfd3771
+- Add only file one
+- Merge pull request #2 from js55998/patch-1
+- Update story.txt
+- Update story.txt
+- new Update for story
+- Update All
+- All update
+- File2 is Added Again
+- Merge branch 'main' of https://github.com/debasishsahoo/git_test1
+- All done
+- ok
+- new commit
+- comm2
+- Commit all
+- new commit
+- update content of reset-Example
+- initial commit
+- gujgj
+- new update
+- Commit For Reset 1
+- Revert "Add new content br2"
+- Add ne wcontent br2
+- Merge branch 'br1'
+- Add loram in Story
+- Revert "Story COMMIT"
+- GITIGNORE Commit
+- README commit
+- Story COMMIT
+- Revert "Commit 4"
+- Commit 5
+- Commit 4
+- Revert "Commit 1"
+- Revert "Commit 3"
+- Commit 3
+- Commit 2
+- Commit 1
+- del
+- Revert "Secont commnt"
+- Secont commnt
+- First Commit
+- Only Story is Commited
+- new update
+- new Update
+- ne update
+- do something
+- Story two
+- Story one
+- Merge pull request #1 from js55998/main
+- Update index.html
+- Merge branch 'main' into Auth
+- Auth code added
+- Lib Folder and +.css and +.js
+- Add Auth folder and +login +registration + otp
+- Login page is added
+- Contact page is Added
+- Another USer added
+- User List Folder is Added
+- Merge branch 'main' of https://github.com/debasishsahoo/git_test1
+- new update
+- Update Index page #Submit button is Added
+- Revert "Update product page #Add submit button"
+- Revert "Update about page #Add submit button"
+- Update user page #Add submit button
+- Update product page #Add submit button
+- Update about page #Add submit button
+- new pages for Revert
+- New Structure
+- Update User Page #Add user List
+- Update Product Page #Add 2 Product name
+- Update Product Page #-2 Li tag
+- Update About page #title
+- index update
+- .gitignore is Updated
+- Blank Template is Updated
+- ChangeLog is Added
+- README template added
+- rebase is done and Update the User page
+- User Page is Added
+- Updated Index Page
+- New Para Added in index
+- Product List is Added
+- New Product Page is Added
+- New Commit added in Index page
+- New para Add in index page
+- Add footer and merged
+- Add footer
+- add footer
+- Merge branch 'main' of https://github.com/debasishsahoo/git_test1
+- +p tag in about page
+- +P index page
+- Delete about.html
+- Update about.html
+- Update about.html
+- New Update
+- Initial commit
